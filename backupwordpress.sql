@@ -5,7 +5,7 @@
 -- Hôte : localhost:8889
 -- Généré le :  mar. 25 mai 2021 à 11:58
 -- Version du serveur :  5.7.26
--- Version de PHP :  7.4.2
+-- Version de PHP :  7.4.3
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
